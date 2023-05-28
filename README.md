@@ -51,7 +51,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![]()https://github.com/YasminZagal/flow2-nodRed-docker-compose/blob/main/Captura%20desde%202023-05-28%2012-54-13.png
+![](https://github.com/YasminZagal/flow2-nodRed-docker-compose/blob/main/Captura%20desde%202023-05-28%2012-54-13.png)
 
 Y se observa lo que se le coloca al fuction para que muestre el mensaje a un lado de la pantalla. 
 
